@@ -4,13 +4,13 @@
 
 &nbsp;
 
-**Objective:**  
+## Objective  
 
 This guide explains how to set up an automation in **Zapier** to save email attachments from your **Gmail** account directly to a **Google Drive** folder named **Gmail Attachments.** This automation will help ensure that important files are always backed up and easily accessible in your **Google Drive**.
 
 This task involves creating a **Zap** in Zapier, where a specific trigger (receiving an email with an attachment) will initiate an action (saving the attachment to **Google Drive**). Once set up, this automation will run seamlessly in the background, saving you time and effort.
 
-**Business Use Cases**
+## Business Use Cases
 
 Automatically saving Gmail attachments to Google Drive offers a range of business benefits for teams in various departments. For instance, accounting departments can streamline invoice and receipt archiving by ensuring all financial documents received via email are automatically organized and securely stored in a dedicated Google Drive folder. Similarly, sales teams can enhance collaboration by automatically saving client proposals and quotes to a shared folder. In a customer support context, automating the storage of email attachments like screenshots or logs into organized folders improves response times and accuracy.
 
